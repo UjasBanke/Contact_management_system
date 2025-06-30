@@ -1,0 +1,11 @@
+# Ignore build and dist folders
+build/
+dist/
+__pycache__/
+*.spec
+*.toc
+*.pkg
+*.log
+*.aux
+*.out
+*.tex
